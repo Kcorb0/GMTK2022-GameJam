@@ -1,4 +1,3 @@
 # GMTK Game Jam Submission
 
-## Twisted
-### RNG Tower Defense
+## Twisted - RNG Tower Defense
